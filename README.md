@@ -1,4 +1,12 @@
-## Hi there 👋
+## arnav surve 🪬
+
+I'm a third-year student at California State Univerity, Sacramento pursuing a Bachelor's degree in Computer Science.
+
+Currently, Linux and DevOps engineering have been of key interest to me. I have been working through this DevOps Roadmap and studying for my AWS SysOps Administrator - Associate certification.
+
+I am focused on developing a strong foundation in Go and Python programming, as well as gaining hands-on experience with the Ubuntu server environment on an old 2017 Macbook Pro. I have experience with both Debian (apt) and RHEL (dnf) based distributions.
+
+
 
 <!--
 **arnavsurve/arnavsurve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
