@@ -2,7 +2,7 @@
 
 ### CS @ CSU Sacramento
 
-📩 arnav@surve.dev
+📩 arnav@surve.dev  
 🐦 [@1arnavsurve](https://x.com/1arnavsurve)  
 🖇️ [in/arnavsurve](https://www.linkedin.com/in/arnavsurve/)  
 🌊 [website](https://surve.dev)
