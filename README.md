@@ -1,5 +1,7 @@
 # arnav surve 🪬
 
+> Do it alone, do it broke, do it tired, do it scared - just do it.
+
 ### CS @ CSU Sacramento
 
 📩 arnav@surve.dev  
