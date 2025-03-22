@@ -1,4 +1,4 @@
-[arnav at surve dot dev](mailto:arnav@surve.dev)  
+[mail](mailto:arnav@surve.dev)  
 [linkedin](https://www.linkedin.com/in/arnavsurve/)  
 [site](https://surve.dev)
 
